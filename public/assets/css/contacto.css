@@ -1,0 +1,94 @@
+header{
+  padding: 5%;
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(2, 164, 156);
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+    margin-top: -2%;
+}
+
+P{
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  /*margin-left: 5%;*/
+  color: rgb(255, 255, 255);
+}
+
+#nombre{
+  padding-top: 0px;
+  margin-top: 0px;
+  text-align: center;
+  }
+
+  #Nombres{
+    text-align: center;
+    margin-top: 5%;
+  }
+
+  #Correo{
+    text-align: center;
+    margin-top: 3%;
+  }
+
+
+  body{
+    background-image: url(/Imágenes/web.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attacent: fixed;
+  }
+
+  strong{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /*margin-left: 5%;*/
+    color: chocolate;
+    }
+
+    h3{
+      color: white;
+      margin-left: 5%;
+      margin-right: 5%;
+      font-size: 120%;
+    }
+    
+    footer {
+      text-align: center;
+      background-color: #47484c91;
+      border-top: 1px solid #1c1b1b;
+      padding: 10px;
+      border-radius: 0 0 10px 10px;
+      margin-top: 350px;
+    }
+
+    nav{
+      background-color: #333333d6; 
+      padding: 20px 20%;
+      position: fixed; 
+      text-align: center;
+      top: 0; 
+      left: 0; 
+      right: 0; 
+    }
+    
+    
+    nav a{
+      text-decoration: none;
+      color: white; 
+      margin-left: 6%;
+    }
+    
+    nav a:hover {
+      text-decoration: underline; 
+    }
+    
+    header nav a {
+      margin-right: 70px; 
+    }
+    
